@@ -1,0 +1,8 @@
+$ git branch -a -v
+  bug-fix-revert                073463c Revert "Fix typo in README.md"
+  bug-fix-typo                  52ec09a Fix typo in README.md
+* main                          52ec09a Fix typo in README.md
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 073463c Revert "Fix typo in README.md"
+  remotes/origin/bug-fix-typo   52ec09a Fix typo in README.md
+  remotes/origin/main           52ec09a Fix typo in README.md
